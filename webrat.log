@@ -1,0 +1,8 @@
+# Logfile created on 2012-07-30 11:13:09 -0500 by logger.rb/25413
+REQUESTING PAGE: GET /static_pages/home with {} and HTTP headers {}
+REQUESTING PAGE: GET /pages/home with {} and HTTP headers {}
+REQUESTING PAGE: GET /pages/home with {} and HTTP headers {}
+REQUESTING PAGE: GET /pages/home with {} and HTTP headers {}
+REQUESTING PAGE: GET views/pages/home with {} and HTTP headers {}
+REQUESTING PAGE: GET /pages/home with {} and HTTP headers {}
+REQUESTING PAGE: GET /pages/home with {} and HTTP headers {}
